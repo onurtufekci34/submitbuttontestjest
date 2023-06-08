@@ -11,7 +11,7 @@ git clone https://github.com/onurtufekci34/submitbuttontestjest.git
 
 cd feedback-form
 
-#Install the dependencies:
+# Install the dependencies:
 
 npm install
 
@@ -20,15 +20,16 @@ npm install
 
 npm start
 
-#Open your browser and visit http://localhost:3000 to view the app.
+# Open your browser and visit http://localhost:3000 to view the app.
 
 Modify the App.js and FeedbackForm.js files to customize the form and its behavior according to your requirements.
 
 # Components
+
 App
 The App component serves as the entry point for the feedback form. It renders the FeedbackForm component and handles form submission.
 
-# FeedbackForm
+FeedbackForm
 The FeedbackForm component displays a feedback form with the following features:
 
 Score input: Users can select a score between 0 and 10 using a range input.
