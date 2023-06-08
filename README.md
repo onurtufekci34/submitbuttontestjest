@@ -5,7 +5,7 @@ This project contains a feedback form component built with React. Users can prov
 Clone the repository:
 
 
-git clone https://github.com/onurtufekci34/feedback-form.git
+git clone https://github.com/onurtufekci34/submitbuttontestjest.git
 
 # Navigate to the project directory:
 
@@ -44,6 +44,7 @@ npm test
 # For test
 
 ![First](test1.png)
+
 ![Second](test2.png)
 
 
